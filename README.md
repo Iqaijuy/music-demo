@@ -1,5 +1,5 @@
 # music-demo
-
+跟着黑马教程做的一个vue2项目，后台数据由网易云api提供
 ## Project setup
 ```
 yarn install
